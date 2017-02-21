@@ -13,6 +13,9 @@ if len(sys.argv) != 2:
 	-------
 	python tweet.py "Look at me, posting from terminal!"
 	'''
+	quit()
+
+execfile( 'login.py' )
 
 tweet_text = sys.argv[1]
 
