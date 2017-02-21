@@ -23,3 +23,15 @@ api = TwitterAPI( consumer_key, consumer_secret, access_token_key, access_token_
 ```
 
 The contents of the file are described [here](http://geduldig.github.io/TwitterAPI/authentication.html).
+
+## scripts
+
+### tweet.py
+
+Simple dumb script that posts tweets a string.
+
+```
+python tweet.py "Trying to post from terminal... did it work?"
+```
+
+![Example](twitter-projects/images/example-tweet-text.png)
