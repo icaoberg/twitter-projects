@@ -28,10 +28,14 @@ The contents of the file are described [here](http://geduldig.github.io/TwitterA
 
 ### tweet.py
 
-Simple dumb script that posts tweets a string.
+Simple dumb script that posts tweets a string. 
+
+For example running 
 
 ```
 python tweet.py "Trying to post from terminal... did it work?"
 ```
+
+should produce a post like this
 
 ![Example](https://raw.githubusercontent.com/icaoberg/twitter-projects/master/images/example-tweet-text.png)
