@@ -1,0 +1,3 @@
+[submodule "TwitterAPI"]
+	path = TwitterAPI
+	url = https://github.com/geduldig/TwitterAPI.git
