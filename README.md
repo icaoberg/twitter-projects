@@ -34,4 +34,4 @@ Simple dumb script that posts tweets a string.
 python tweet.py "Trying to post from terminal... did it work?"
 ```
 
-![Example](twitter-projects/images/example-tweet-text.png)
+![Example](https://raw.githubusercontent.com/icaoberg/twitter-projects/master/images/example-tweet-text.png)
