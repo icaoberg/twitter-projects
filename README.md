@@ -28,7 +28,7 @@ The contents of the file are described [here](http://geduldig.github.io/TwitterA
 
 ### tweet.py
 
-Simple dumb script that posts tweets a string. 
+Simple dumb script that posts a string. 
 
 For example, running 
 
@@ -42,7 +42,7 @@ should produce a post like this
 
 ### tweet_and_upload_a_picture.py
 
-Simple dumb script that posts tweets a string and uploads an image.
+Simple dumb script that posts a string and uploads an image.
 
 For example, running 
 
