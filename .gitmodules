@@ -1,3 +1,6 @@
 [submodule "TwitterAPI"]
 	path = TwitterAPI
 	url = https://github.com/geduldig/TwitterAPI.git
+[submodule "tweepy"]
+	path = tweepy
+	url = https://github.com/tweepy/tweepy.git
